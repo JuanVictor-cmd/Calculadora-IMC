@@ -10,7 +10,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 <h2>Clique Aqui ⬇</h2> 
 Projeto Calculadroa IMC em tempo real:
-https://netiflixclone-juanvictor-cmd.netlify.app
+https://imc-calc-juan.netlify.app
 
 ### 📋 Pré-requisitos
 
