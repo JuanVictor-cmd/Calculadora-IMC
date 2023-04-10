@@ -7,7 +7,7 @@
         const inputaltura = document.querySelector('#altura');
         
         const peso = Number(inputpeso.value);
-        const altura = Number(inputaltura.value);
+        const altura = Number(inputaltura.value.replace(',', '.'));
 
         if(!peso){
             resultado('Peso inválido', false);
